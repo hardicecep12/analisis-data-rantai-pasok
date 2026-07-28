@@ -1,22 +1,3 @@
-
-Gemini
-New chat
-Search chats
-Images
-Videos
-Library
-New notebook
-Perbaikan README Analisis Rantai Pasok
-Melengkapi Visualisasi Analisis Rantai Pasokan
-Melengkapi Visualisasi Grafik Inventaris
-Perbaikan Kode Analisis Data Supply Chain
-Menampilkan File Tersembunyi Windows
-Laptop Blank, Kursor Muncul: Solusi Cepat
-Meretas Bahasa Rumania: Pola Visual
-Cara Install Jupyter di Anaconda
-Conversation with Gemini
-Perbaiki dan lengkapo untuk readme # Analisis Rantai Pasok (Supply Chain Analysis)
-
 ## Deskripsi Proyek
 
 Proyek ini merupakan analisis data rantai pasok menggunakan Python untuk mempelajari pola logistik, finansial produk, kualitas, dan performa pemasok.
